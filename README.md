@@ -1,6 +1,6 @@
 # Progetti-Microcontrollori
 
-Repository containing the C code used in the laboratories of the subject "Microcontrollori", in the 2022-2023 academic year.
+Repository containing the `C` code used in the laboratories of the subject *Microcontrollori* at Politecnico di Milano, in the 2022-2023 academic year.
 
 <br />
 <br />
